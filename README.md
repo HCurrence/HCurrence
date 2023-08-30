@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **HCurrence/HCurrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on VR Guru with Virginia Commonwealth University's Physical Therapy lab!
+💬 Ask me about XR and Game Development!
+📫 [Check out my LinkedIn page!]()
+😄 Pronouns: She/Her
+⚡ Fun fact: I love Star Trek!
