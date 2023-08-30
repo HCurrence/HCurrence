@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on VR Guru with Virginia Commonwealth University's Physical Therapy lab!
+
 💬 Ask me about XR and Game Development!
-📫 [Check out my LinkedIn page!]()
+
+📫 [Check out my LinkedIn page!](https://www.linkedin.com/in/haley-currence/)
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I love Star Trek!
