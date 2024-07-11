@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on VR Guru with Virginia Commonwealth University's Physical Therapy lab!
+🔭 I’m currently working out a way to access the Ring DoorBell Camera's camera feed. Check out my [LinkedIn page](https://www.linkedin.com/in/haley-currence/) to see other examples of projects I've contributed to!
 
 💬 Ask me about XR and Game Development!
 
